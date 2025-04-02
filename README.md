@@ -20,7 +20,7 @@ Seja bem-vindo(a) ao meu perfil do GitHub! Sou um apaixonado por tecnologia e es
 
 ### 📊 Estatísticas do GitHub
 <div>
-  <a href="https://beacons.ai/rafaballerini">
+  <a href="https://beacons.ai/ItikawaBruno">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ItikawaBruno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItikawaBruno&layout=compact&langs_count=16&theme=dracula" />
   </a>
