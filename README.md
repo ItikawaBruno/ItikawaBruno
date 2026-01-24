@@ -1,12 +1,23 @@
 <h1 align="center">Bruno H. Itikawa</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com
+    ?font=Fira+Code
+    &size=18
+    &pause=1000
+    &center=true
+    &vCenter=true
+    &width=520
+    &lines=Software+Engineer;Java+%7C+Spring+Boot;APIs+REST+%7C+Microsserviços;Arquitetura+de+Software" />
+</p>
+
 <h3 align="center">
-Software Engineer • Java • Spring Boot • Microsserviços • Next.js
+Java • Spring Boot • Microsserviços • Next.js
 </h3>
 
 <p align="center">
 Estudante de <strong>Sistemas de Informação</strong> (FIAP) <br>
-Foco em <strong>Back-end, Arquitetura de Software</strong> e desenvolvimento de sistemas escaláveis
+Foco em <strong>Back-end</strong>, <strong>Arquitetura de Software</strong> e sistemas escaláveis
 </p>
 
 <p align="center">
@@ -25,21 +36,21 @@ Foco em <strong>Back-end, Arquitetura de Software</strong> e desenvolvimento de 
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Sistemas de Informação com forte interesse em **engenharia de software**, atuando principalmente no desenvolvimento de **APIs REST**, **microsserviços** e aplicações orientadas a boas práticas de arquitetura.
+Sou estudante de Sistemas de Informação com forte interesse em **engenharia de software**, atuando no desenvolvimento de **APIs REST**, **microsserviços** e aplicações orientadas a boas práticas de arquitetura.
 
-Tenho experiência em projetos acadêmicos e pessoais utilizando **Java com Spring Boot**, aplicando conceitos como **Clean Architecture**, **SOLID**, separação de responsabilidades e integração entre serviços. Também possuo base em **front-end moderno** com React e Next.js, o que me permite compreender o sistema de ponta a ponta.
+Tenho experiência em projetos acadêmicos e pessoais utilizando **Java com Spring Boot**, aplicando conceitos como **Clean Architecture**, **SOLID** e separação de responsabilidades. Também possuo base em **front-end moderno** com React e Next.js, o que me permite compreender o fluxo completo de aplicações web.
 
-Além disso, estudo **inteligência artificial e ciência de dados**, explorando aplicações práticas em software, como análise de dados, automação e segurança.
+Além disso, estudo **inteligência artificial e ciência de dados**, explorando aplicações práticas em software, automação e segurança.
 
 ---
 
-## 🧩 Principais Interesses Técnicos
+## 🧩 Interesses Técnicos
 
 - Arquitetura de Software e Microsserviços  
 - APIs RESTful bem estruturadas  
-- Boas práticas de código (Clean Code, SOLID)  
-- Segurança em aplicações (autenticação, autorização, JWT)  
-- Integração entre sistemas e comunicação assíncrona  
+- Clean Code, SOLID e boas práticas  
+- Segurança (autenticação, autorização, JWT)  
+- Integração entre sistemas  
 - Cloud, containers e ambientes distribuídos  
 
 ---
@@ -69,7 +80,7 @@ Além disso, estudo **inteligência artificial e ciência de dados**, explorando
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
-### 🔧 DevOps & Ferramentas
+### 🔧 Ferramentas & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
@@ -80,13 +91,11 @@ Além disso, estudo **inteligência artificial e ciência de dados**, explorando
 ## 📂 Projetos & Experiência Prática
 
 - Desenvolvimento de **APIs REST com Spring Boot**
-- Implementação de **CRUD completo**, validações e persistência de dados  
+- Implementação de **CRUD**, validações e persistência de dados  
 - Estruturação de projetos com **camadas bem definidas**
 - Integração entre serviços em **arquitetura de microsserviços**
-- Estudos e aplicações iniciais de **Machine Learning e IA aplicada**
+- Estudos iniciais de **Machine Learning e IA aplicada**
 - Simulações de rede e fundamentos de infraestrutura  
-
-*(Veja os repositórios para detalhes técnicos)*
 
 ---
 
@@ -94,22 +103,29 @@ Além disso, estudo **inteligência artificial e ciência de dados**, explorando
 
 <div align="center">
   <img height="170em"
-       src="https://github-readme-stats.vercel.app/api?username=ItikawaBruno&show_icons=true&theme=dracula&hide_border=true" />
+    src="https://github-readme-stats.vercel.app/api?username=ItikawaBruno&show_icons=true&theme=dracula&hide_border=true" />
   <img height="170em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItikawaBruno&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItikawaBruno&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
 </div>
 
 ---
 
-## 📚 Formação & Cursos
+## 🔥 Consistência
 
-- Sistemas de Informação — FIAP  
-- Java e Orientação a Objetos — Alura  
-- Desenvolvimento de APIs com Java e Spring — Alura  
-- Front-end moderno com React e Next.js — Alura  
-- SQL e Banco de Dados Relacionais — Alura  
-- Python para Ciência de Dados — FIAP  
-- Redes de Computadores e Simulação de Redes — Cisco / Alura  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ItikawaBruno&theme=dracula&hide_border=true" />
+</div>
+
+---
+
+## 🐍 Atividade no GitHub
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ItikawaBruno/ItikawaBruno/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/ItikawaBruno/ItikawaBruno/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
